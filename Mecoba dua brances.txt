@@ -1,0 +1,6 @@
+Disini kita akan mencoba mengcommit dengan menggunakan 2 braces :
+
+Mata Kuliah terKavorit :
+ 1. Pemrograman WEB
+ 2. Pemrograman Mobile
+ 3. Matematika Diskrit
