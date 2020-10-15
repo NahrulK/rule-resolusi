@@ -4,5 +4,5 @@ Mata Kuliah terKavorit :
  1. Pemrograman WEB
  2. Pemrograman Mobile
  3. Matematika Diskrit
- 4. Metode Numerik
- 5. Perancangan WEB
+ 4. Perancangan perangkat Lunak
+ 5. Cyber and Security
